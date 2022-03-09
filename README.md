@@ -1,1 +1,3 @@
 # 100DaysOfDeepLearning
+
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Ground rules:<br>- Try atleast 1 idea per day.<br>- 1 thread per idea.<br>- Smallest possible model &amp; dataset.<br>- Should be runnable on colab easily.<br>- Try not resorting to hyperparam tuning.<br>- Document success, failures, frustrations.<br>- Push all code to GitHub. <a href="https://twitter.com/hashtag/100DaysOfDeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfDeepLearning</a></p>&mdash; Rahul Vigneswaran (@lettucelemontea) <a href="https://twitter.com/lettucelemontea/status/1500482894518972416?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote>
